@@ -1,8 +1,8 @@
-👋 Hi, I’m @gun1kim
-👀 I’m interested in C++ programming and Information Security
-🌱 I’m currently learning algorithm and Information Security
-💞️ I’m looking to collaborate on ...
-📫 How to reach me ...
+-👋 Hi, I’m @gun1kim
+-👀 I’m interested in C++ programming and Information Security
+-🌱 I’m currently learning algorithm and Information Security
+-💞️ I’m looking to collaborate on ...
+-📫 How to reach me ...
 
 
 
