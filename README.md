@@ -1,5 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20gun1kim%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
+<div align="center">
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gun1kim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gun1kim)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 <!--
 **gun1kim/gun1kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
